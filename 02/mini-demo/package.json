@@ -1,0 +1,19 @@
+{
+  "name": "mini-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node build.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chokidar": "^3.4.3",
+    "fs-extra": "^10.0.0",
+    "less": "^4.1.1",
+    "postcss": "^8.1.2",
+    "postcss-pxtorpx-pro": "^1.0.0",
+    "postcss-url": "^10.1.3"
+  }
+}
